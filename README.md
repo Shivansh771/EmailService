@@ -1,4 +1,5 @@
 # Emailgui
+Change the email and generate the app-passoword and then change it as well
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.11.
 
